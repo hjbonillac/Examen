@@ -1,4 +1,4 @@
-{"alumno":"Javier","nota":9.,"ranking":10},
+[{"alumno":"Javier","nota":9,"ranking":10},
 {"alumno":"Juan","nota":4,"ranking":150},
 {"alumno":"Pedro","nota":7,"ranking":15},
 {"alumno":"María","nota":3,"ranking":180},
@@ -7,3 +7,4 @@
 {"alumno":"Lina","nota":8,"ranking":12},
 {"alumno":"Diego","nota":6,"ranking":40},
 {"alumno":"Fabian","nota":2,"ranking":200},
+]
